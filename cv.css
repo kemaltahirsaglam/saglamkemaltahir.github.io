@@ -1,0 +1,124 @@
+#aw {
+    text-align: right !important;
+    color: #6f1d1b;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+    color: #6f1d1b;
+    padding-bottom: 1%;
+}
+
+p {
+    line-height: 1.5;
+    letter-spacing: 0.1px;
+    text-align: start;
+}
+
+body {
+    text-align: left;
+    line-height: 1.5;
+    letter-spacing: 0.1px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 100;
+    color: #ad2831;
+}
+
+body {
+    line-height: 1.1;
+    letter-spacing: 0.1px;
+    text-align: center;
+}
+
+ol {
+    text-align: left;
+}
+
+h2,
+h3,
+h4 {
+    text-align: left;
+    color: #6f1d1b;
+}
+
+img {
+    width: 95px;
+    height: 95px;
+    float: inline-start;
+}
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bas {
+    color: #6f1d1b;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+.as {
+    color: #6f1d1b;
+    text-align: center;
+}
+
+#l:hover {
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+img:hover {
+    height: 96px;
+    width: 96px;
+}
+
+#wp {
+    width: 19px;
+    height: 17px;
+    float: initial;
+    position: initial;
+}
+
+#sp {
+    width: 15px;
+    height: 14px;
+    float: initial;
+    background-color: white;
+}
+
+#tp {
+    width: 17px;
+    height: 17px;
+    float: initial;
+    background-color: white;
+}
+
+#as {
+    text-align: center;
+    color: #6f1d1b;
+}
+
+h2:hover {
+    color: #ad2831;
+    transition: 2s;
+    transition-timing-function: step-start
+}
+
+h3:hover {
+    color: #ad2831;
+    transition: 2s;
+    transition-timing-function: step-start;
+}
+
+h4:hover {
+    color: #ad2831;
+    transition: 2s;
+    transition-timing-function: step-start;
+}
