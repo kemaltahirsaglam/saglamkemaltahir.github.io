@@ -100,6 +100,12 @@ img:hover {
     background-color: white;
 }
 
+#gp {
+    width: 17px;
+    height: 17px;
+    float: initial;
+}
+
 #as {
     text-align: center;
     color: #6f1d1b;
