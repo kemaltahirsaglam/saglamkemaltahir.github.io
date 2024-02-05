@@ -101,9 +101,10 @@ img:hover {
 }
 
 #gp {
-    width: 17px;
-    height: 17px;
+    width: 13px;
+    height: 13px;
     float: initial;
+    background-color: white;
 }
 
 #as {
